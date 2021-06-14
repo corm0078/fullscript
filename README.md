@@ -1,2 +1,1 @@
-# fullscript
- 
+# u-ottawa
